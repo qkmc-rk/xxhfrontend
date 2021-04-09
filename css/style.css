@@ -1509,7 +1509,7 @@ ul.locat_icon li a{
 
  .Library {
      background-color: #fff;
-     padding: 90px 0px;
+     padding: 50px 0px;
 }
  .Library .titlepage {
      text-align: center;
@@ -1561,8 +1561,8 @@ ul.locat_icon li a{
 
 .box {display: flex; align-items: center; flex-wrap: wrap; text-align: center;}
 .Books {
-     background-color: #fff;
-     
+     background-color: #f6f6f6;
+     padding: 30px 0px;
 }
  .Books .titlepage {
      text-align: center;
